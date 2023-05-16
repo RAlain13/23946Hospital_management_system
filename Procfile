@@ -1,0 +1,1 @@
+web: java -server.port=$PORT -jar spring-boot-maven-plugin.jar
