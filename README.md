@@ -19,27 +19,18 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
-## Deploying the application to OpenShift
+# Project Requirement
 
-The easiest way to deploy the sample application to OpenShift is to use the [OpenShift CLI](https://docs.openshift.org/latest/cli_reference/index.html):
+[Project Overview.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11491584/Project.Overview.docx)
 
-```shell
-===========================
-```
+# Project Plan
 
-This will create:
+[Project plan.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11491617/Project.plan.docx)
 
-* An ImageStream called "springboot-maven3-centos"
-* An ImageStream called "springboot-sample-app"
-* A BuildConfig called "springboot-sample-app"
-* DeploymentConfig called "springboot-sample-app"
-* Service called "springboot-sample-app"
+# Project User Documentation
 
-If you want to access the app from outside your OpenShift installation, you have to expose the springboot-sample-app service:
+[USER DOCUMENTATION.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11491625/USER.DOCUMENTATION.docx)
 
-```shell
-oc expose springboot-sample-app --hostname=www.example.com
-```
 # User Panel :
 
 ![1](https://github.com/RAlain13/23946Hospital_management_system/assets/114587679/c1056c67-65f2-46e1-9ba4-fc073e4f5968)
