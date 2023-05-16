@@ -31,6 +31,10 @@ mvn spring-boot:run
 
 [USER DOCUMENTATION.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11491625/USER.DOCUMENTATION.docx)
 
+# Technical Documentation
+
+[TECHNICAL DOCUMENTATION.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11491684/TECHNICAL.DOCUMENTATION.docx)
+
 # User Panel :
 
 ![1](https://github.com/RAlain13/23946Hospital_management_system/assets/114587679/c1056c67-65f2-46e1-9ba4-fc073e4f5968)
