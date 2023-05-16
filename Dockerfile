@@ -1,4 +1,14 @@
-FROM openjdk:8
-ADD target/spring-boot-maven-plugin.jar spring-boot-maven-plugin.jar
-EXPOSE 8081
-ENTRYPORT ["-java","-jar","spring-boot-maven-plugin.jar"]
+# Set the base image
+FROM adoptopenjdk:11-jre-hotspot
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the JAR/WAR file to the container
+COPY target/23946_HOSPITAL_MANAGEMENT-0.0.1-SNAPSHOT.war /app/app.war
+
+# Expose the port your application uses
+EXPOSE 8080
+
+# Set the entry point command for the container
+CMD ["java", "-jar", "/app/app.war"]
