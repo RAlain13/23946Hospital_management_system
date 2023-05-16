@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar 23946_HOSPITAL_MANAGEMENT-0.0.1-SNAPSHOT.war
