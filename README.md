@@ -37,7 +37,7 @@ mvn spring-boot:run
 
 # Technical Documentation
 
-[TECHNICAL DOCUMENTATION.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11491684/TECHNICAL.DOCUMENTATION.docx)
+[TECHNICAL DOCUMENTATION.docx](https://github.com/RAlain13/23946Hospital_management_system/files/11578809/TECHNICAL.DOCUMENTATION.docx)
 
 # User Panel :
 
