@@ -2,6 +2,10 @@
 Project on Hospital sector which is covering various field of this 3 sector.This project is using Spring Framework, Hibernate, JPA, Rest, JSP.
 
 # Railwayr deployment 
+## Link to app
+
+https://23946hospitalmanagementsystem-production.up.railway.app/
+
 ## Requirements
 
 For building and running the application you need:
