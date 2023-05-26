@@ -1,7 +1,7 @@
 # Hospital-Management-System-Spring-Boot(HMS)
 Project on Hospital sector which is covering various field of this 3 sector.This project is using Spring Framework, Hibernate, JPA, Rest, JSP.
 
-# Docker deployment 
+# Railwayr deployment 
 ## Requirements
 
 For building and running the application you need:
